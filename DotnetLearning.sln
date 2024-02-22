@@ -2,13 +2,13 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetLearning", "DotnetLearning\DotnetLearning.csproj", "{BA526171-2027-48B0-BECE-C4DA461519FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakingCsharp", "SpeakingCsharp\SpeakingCsharp.csproj", "{094AEBA8-245D-4205-9D68-422F5B01F230}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakingCsharp", "Ch02\SpeakingCsharp\SpeakingCsharp.csproj", "{094AEBA8-245D-4205-9D68-422F5B01F230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arguments", "Arguments\Arguments.csproj", "{7754E3F1-6DAD-4260-901B-06F3036911E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arguments", "Ch02\Arguments\Arguments.csproj", "{7754E3F1-6DAD-4260-901B-06F3036911E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAndAwait", "AsyncAndAwait\AsyncAndAwait.csproj", "{F3F1134E-BC70-452B-9627-0DAD49EB1D84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAndAwait", "Ch02\AsyncAndAwait\AsyncAndAwait.csproj", "{F3F1134E-BC70-452B-9627-0DAD49EB1D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch02Ex03Numbers", "Ch02Ex03Numbers\Ch02Ex03Numbers.csproj", "{489FD6EE-BB03-4158-8E17-4CCE41B98332}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch02Ex03Numbers", "Ch02\Ch02Ex03Numbers\Ch02Ex03Numbers.csproj", "{489FD6EE-BB03-4158-8E17-4CCE41B98332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

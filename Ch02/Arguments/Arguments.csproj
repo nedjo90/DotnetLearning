@@ -9,5 +9,14 @@
     <ItemGroup>
         <Using Include="System.Console" Static="true"/>
     </ItemGroup>
+    <ItemGroup>
+      <Compile Remove="Ch02\**" />
+    </ItemGroup>
+    <ItemGroup>
+      <EmbeddedResource Remove="Ch02\**" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Remove="Ch02\**" />
+    </ItemGroup>
 
 </Project>
