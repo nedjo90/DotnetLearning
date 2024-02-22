@@ -1,0 +1,35 @@
+What statement can you type in a C# file to discover the compiler and language version?
+we can provoke an error and read that in the error messages or in terminal with --version
+What are the two types of comments in C#?
+//
+/**/
+What is the difference between a verbatim string and an interpolated string?
+"" and $""
+Why should you be careful when using float and double values?
+more complex to do a comparison
+How can you determine how many bytes a type like double uses in memory?
+with => sizeof
+When should you use the var keyword?
+when you cannot specify a known type
+What is the newest syntax to create an instance of a class like XmlDocument?
+new();
+Why should you be careful when using the dynamic type?
+value type not check until runtime
+How do you right-align a format string?
+index [, alignment] [: format] to right align => alignment = positive integer
+What character separates arguments for a console app?
+space tab ""
+
+
+What type would you choose for the following “numbers”?
+A person’s telephone number => string
+A person’s height => float or double
+A person’s age => int
+A person’s salary => decimal
+A book’s ISBN => string
+A book’s price => decimal
+A book’s shipping weight => float or double
+A country’s population => uint
+The number of stars in the universe => ulong or System.Numerics.BigInteger
+The number of employees in each of the small or medium businesses in the UK (up to about 50,000 employees per business) => ushort
+
